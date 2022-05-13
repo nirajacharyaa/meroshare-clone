@@ -31,6 +31,7 @@ body {
   background-repeat: no-repeat;
   background-position: 50% 120%;
   background-size: 350px;
+  transition: width 0.5s;
 }
 .navbar {
   margin: 0;
